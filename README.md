@@ -43,14 +43,15 @@ When I'm not working with data, I enjoy running, reading, networking and sociali
   <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+</p>
 
 
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook Skill Badge>
-
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook Skill Badge">
+</p>
 
 #### Quality Assurance, Control & Analytics
 <p>
