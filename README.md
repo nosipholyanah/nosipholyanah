@@ -51,10 +51,10 @@ When I'm not working with data, I enjoy running, reading, networking and sociali
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### Quality Assurance, Control & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Beginner-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Process%20Control-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
+  <img src="https://img.shields.io/badge/Quality%20Management%20Systems-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-Experienced-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
+  <img src="https://img.shields.io/badge/Quality%20Auditing-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
