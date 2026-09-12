@@ -13,9 +13,9 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst with a background in quality assurance, procurement, and operational reporting skilled at transforming raw data into actionable business insights. I enjoy taking draw data, and working through it to analyse patterns and derive insights that can be communicated with stakeholders and assist with decision-making. 
+I'm a data analyst with a background in quality assurance, procurement, and operational reporting, skilled at transforming raw data into actionable business insights. I enjoy taking draw data, and working through it to analyse patterns and derive insights that can be communicated with stakeholders and assist with decision-making. 
 
-My focus is on using the tools at my disposal to give life to data, create visuals and build dashboards that help me tell the story to the relevant people. Assisting teams and organisations with solve problems and get answers to business questions. 
+My focus is on using the tools at my disposal to give life to data, create visuals and build dashboards that help me tell the story to the relevant people. Assisting teams and organisations with solving problems and getting answers to business questions. 
 
 When I'm not working with data, I enjoy running, reading, networking and socialising with different individuals. 
 
@@ -49,12 +49,13 @@ When I'm not working with data, I enjoy running, reading, networking and sociali
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook Skill Badge>
 </p>
 
 #### Quality Assurance, Control & Analytics
 <p>
-  <img src="https://img.shields.io/badge/Statistical%20Process%20Control-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Quality%20Management%20Systems-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-Experienced-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/Quality%20Auditing-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Process%20Control-Experienced-FF6B6B?style=flat" alt="Statistical Process Control Skill Badge">
+  <img src="https://img.shields.io/badge/Quality%20Management%20Systems-Experienced-4ECDC4?style=flat" alt="Quality Management Systems Skill Badge">
+  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-Experienced-45B7D1?style=flat" alt="Root Cause Analysis Skill Badge">
+  <img src="https://img.shields.io/badge/Quality%20Auditing-Expert-96CEB4?style=flat" alt="Quality Auditing Skill Badge">
 </p>
