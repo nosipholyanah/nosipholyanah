@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst with a background in quality assurance, procurement, and operational reporting, skilled at transforming raw data into actionable business insights. I enjoy taking draw data, and working through it to analyse patterns and derive insights that can be communicated with stakeholders and assist with decision-making. 
+I'm a data analyst with a background in quality assurance, procurement, and operational reporting, skilled at transforming raw data into actionable business insights. I enjoy taking raw data, and working through it to analyse patterns and derive insights that can be communicated with stakeholders and assist with decision-making. 
 
 My focus is on using the tools at my disposal to give life to data, create visuals and build dashboards that help me tell the story to the relevant people. Assisting teams and organisations with solving problems and getting answers to business questions. 
 
