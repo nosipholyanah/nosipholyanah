@@ -1,62 +1,104 @@
-## Hi there, I'm Nosipho Lyanah 👋
+# Hi, I'm Nosipho Lyanah Sibanda 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Quality+Analyst;Turning+Data+into+Actionable+Insights;Solving+Real+World+Problem;Answering+Real+World+Questions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Analytics+%7C+Business+Intelligence;Quality+%26+Operational+Analytics;Turning+Data+into+Meaningful+Insights;Using+Data+to+Solve+Business+Problems" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/nosipho-lyanah-sibanda-85061a186"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/nosipho-lyanah-sibanda-8b7a86446/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:Nosipholyanah02@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst with a background in quality assurance, procurement, and operational reporting, skilled at transforming raw data into actionable business insights. I enjoy taking raw data, and working through it to analyse patterns and derive insights that can be communicated with stakeholders and assist with decision-making. 
+## 🚀 About Me
 
-My focus is on using the tools at my disposal to give life to data, create visuals and build dashboards that help me tell the story to the relevant people. Assisting teams and organisations with solving problems and getting answers to business questions. 
+I'm a Data Analytics postgraduate student with a background in Quality Management and experience across quality assurance, procurement and operational environments. I'm interested in using data to investigate business problems, identify patterns and generate insights that support informed decision-making.
 
-When I'm not working with data, I enjoy running, reading, networking and socialising with different individuals. 
+My experience in quality assurance has shaped my analytical approach: understanding the problem, examining the evidence, investigating possible causes and identifying opportunities for improvement. I'm now building on that foundation through data analytics, with a particular interest in Business Intelligence and operational analytics.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://nosipholyanah.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I enjoy transforming raw data into meaningful information through analysis, visualisation and dashboards that communicate findings clearly.
 
-- **Project A:** [Creating an interactive dashboard for my complaints analysis project.]  
-- **Project B:** [End to end project on the income and expenditure of South Africans analysis.]
-- **Machine learning:** [Developing my skills on employing machine learning programs for data analysis.]
+### 🌐 [Explore My Portfolio Website](https://nosipholyanah.github.io/)
 
-## 🌱 Currently Learning 
+## 🔍 How I Approach Data Analytics
 
-- [Machine learning techniques- Supervised and Unsupervised learning]
-- [R Studio.]
+I believe effective data analysis starts with understanding the question behind the data. My approach focuses on:
+
+- **Understanding the problem:** Defining the business question and identifying what needs to be investigated.
+- **Exploring the data:** Assessing data quality, understanding variables and identifying initial patterns.
+- **Investigating findings:** Applying analytical techniques to examine trends, relationships and possible root causes.
+- **Communicating insights:** Using visualisations and clear explanations to translate findings into meaningful recommendations.
+- **Supporting improvement:** Connecting analytical findings to practical decisions and opportunities for better performance.
+
+## 🎯 Areas of Interest
+
+- Business Intelligence and Data Visualisation
+- Exploratory Data Analysis
+- Quality and Operational Analytics
+- Statistical Analysis
+- Machine Learning
+- Process Improvement and Data-Driven Decision Making
+
+## 🚀 Projects & Current Work
+
+### Customer Complaint Analysis
+An end-to-end analytical project investigating customer complaints in a simulated poultry processing environment. Using SQL and Python, I explore complaint patterns, identify recurring operational issues and investigate opportunities for quality improvement.
+
+**Tools:** PostgreSQL, SQL, Python, Pandas, Excel
+
+[View Project →](https://github.com/nosipholyanah/Customer-complaint-analysis)
+
+### South African Income & Expenditure Analysis
+Developing an analytical project exploring income and expenditure patterns in South Africa, with the aim of uncovering trends and generating meaningful insights.
+
+### Machine Learning
+Building practical knowledge of machine learning techniques and exploring how predictive models can support data analysis and decision-making.
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
+#### Data Analysis & Visualisation
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
 </p>
 
-
-#### Programming & Automation
+#### Programming & Data Tools
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Pandas-Learning-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-Intermediate-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
+  <img src="https://img.shields.io/badge/PostgreSQL-Working%20Knowledge-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-#### Quality Assurance, Control & Analytics
+#### Quality Assurance & Process Improvement
 <p>
-  <img src="https://img.shields.io/badge/Statistical%20Process%20Control-Experienced-FF6B6B?style=flat" alt="Statistical Process Control Skill Badge">
-  <img src="https://img.shields.io/badge/Quality%20Management%20Systems-Experienced-4ECDC4?style=flat" alt="Quality Management Systems Skill Badge">
-  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-Experienced-45B7D1?style=flat" alt="Root Cause Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Quality%20Auditing-Expert-96CEB4?style=flat" alt="Quality Auditing Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Process%20Control-Experienced-FF6B6B?style=flat" alt="Statistical Process Control">
+  <img src="https://img.shields.io/badge/Quality%20Management%20Systems-Experienced-4ECDC4?style=flat" alt="Quality Management Systems">
+  <img src="https://img.shields.io/badge/Root%20Cause%20Analysis-Experienced-45B7D1?style=flat" alt="Root Cause Analysis">
+  <img src="https://img.shields.io/badge/Quality%20Auditing-Experienced-96CEB4?style=flat" alt="Quality Auditing">
+</p>
+
+## 🌱 Currently Developing
+
+- Advanced SQL and Python for data analysis
+- Supervised and unsupervised machine learning
+- Statistical modelling and analytical techniques
+- Interactive dashboards and data storytelling
+- R and RStudio
+
+## 🎓 Education
+
+- **Postgraduate Diploma in Data Analytics** — Rosebank International (In Progress)
+- **Advanced Diploma in Quality Management** — University of Johannesburg
+- **Diploma in Management Services** — University of Johannesburg
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with people in data analytics, Business Intelligence and quality management.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nosipho-lyanah-sibanda-8b7a86446/">LinkedIn</a> ·
+  <a href="mailto:Nosipholyanah02@gmail.com">Email</a> ·
+  <a href="https://github.com/nosipholyanah">GitHub</a>
 </p>
